@@ -83,19 +83,11 @@ internal class Paddle : Entity
 
             Console.WriteLine(currentVelocity);
 
-            
+
             //this inverts the velocity of the ball each time it is hit
             //send the ball flying the other direction
             //aka a hit
-            if (targetCol.ballPosX > paddlePosX)
-            {
-                targetCol.velocity.X = currentVelocity * -1;
-            }
-            else if(targetCol.ballPosX < paddlePosX)
-            {
-                targetCol.velocity.X = currentVelocity * -1;
-            }
-
+            targetCol.velocity.X = currentVelocity * -1;
 
             //changes the hit direction of the ball based on
             //position of the hit on the paddle
