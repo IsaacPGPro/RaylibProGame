@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\CSharpProjects\\RaylibProGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|c:\\dev\\csharpprojects\\raylibprogame\\raylibprogame\\ponggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|solutionrelative:raylibprogame\\ponggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|c:\\dev\\csharpprojects\\raylibprogame\\raylibprogame\\raylibprogame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|solutionrelative:raylibprogame\\raylibprogame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|c:\\dev\\csharpprojects\\raylibprogame\\raylibprogame\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|solutionrelative:raylibprogame\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|c:\\dev\\csharpprojects\\raylibprogame\\raylibprogame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|solutionrelative:raylibprogame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|c:\\dev\\csharpprojects\\raylibprogame\\raylibprogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|solutionrelative:raylibprogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|c:\\dev\\csharpprojects\\raylibprogame\\raylibprogame\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB29141-C4A5-46E8-BD51-87C71A031CEA}|RaylibProGame\\RaylibProGame.csproj|solutionrelative:raylibprogame\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RaylibProGame",
+              "DocumentMoniker": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\RaylibProGame.csproj",
+              "RelativeDocumentMoniker": "RaylibProGame\\RaylibProGame.csproj",
+              "ToolTip": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\RaylibProGame.csproj",
+              "RelativeToolTip": "RaylibProGame\\RaylibProGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T03:01:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PongGame.cs",
+              "DocumentMoniker": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\PongGame.cs",
+              "RelativeDocumentMoniker": "RaylibProGame\\PongGame.cs",
+              "ToolTip": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\PongGame.cs",
+              "RelativeToolTip": "RaylibProGame\\PongGame.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAwLcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:39:06.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Entity.cs",
+              "RelativeDocumentMoniker": "RaylibProGame\\Entity.cs",
+              "ToolTip": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Entity.cs",
+              "RelativeToolTip": "RaylibProGame\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:24:35.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paddle.cs",
+              "DocumentMoniker": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Paddle.cs",
+              "RelativeDocumentMoniker": "RaylibProGame\\Paddle.cs",
+              "ToolTip": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Paddle.cs",
+              "RelativeToolTip": "RaylibProGame\\Paddle.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAwwKQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:29:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Ball.cs",
+              "RelativeDocumentMoniker": "RaylibProGame\\Ball.cs",
+              "ToolTip": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Ball.cs",
+              "RelativeToolTip": "RaylibProGame\\Ball.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA5wD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:46:25.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Program.cs",
+              "RelativeDocumentMoniker": "RaylibProGame\\Program.cs",
+              "ToolTip": "C:\\Dev\\CSharpProjects\\RaylibProGame\\RaylibProGame\\Program.cs",
+              "RelativeToolTip": "RaylibProGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:15:10.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
